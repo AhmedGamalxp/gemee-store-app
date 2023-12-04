@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "35589542039",
+    "project_id": "gemee-app",
+    "storage_bucket": "gemee-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35589542039:android:9fef77e6bc28ea8da159d2",
+        "android_client_info": {
+          "package_name": "com.example.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "35589542039-6istegg2aqtl8otkk8ml1mf50l6mt9h4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7wWKPjJzpjy-VKj4Qr4zlk13vfCqSjj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "35589542039-6istegg2aqtl8otkk8ml1mf50l6mt9h4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "35589542039-vi82m40kvjrc2k7sroo1ot8afui0694r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shopApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
