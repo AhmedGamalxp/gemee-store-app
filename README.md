@@ -1,16 +1,45 @@
-# gemee_shop_app
 
-A new Flutter project.
+# Gemee shop app
 
-## Getting Started
+it's a simple shopping app with a lot of features and fake products api .
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- firebase authentication
+- social media authentication
+- get products and their details and describtion
+- get products categories
+- search for a product
+- adding products to favorites and cart
+- some payment and location servies
+- dark mode feature
+- localization 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Technologies
+- flutter / dart
+- firebase
+- authentication
+- Getx
+- social media authentication
+- animation
+- api
+- http / dio
+- version controll
+- postman
+
+## Screenshots
+<img src="screen shots/a1.jpeg" width=300 hight=400>  <img src="screen shots/a2.jpeg" width=300 hight=400>  <img src="screen shots/a3.jpeg" width=300 hight=400>
+
+
+<img src="screen shots/a4.jpeg" width=300 hight=400>  <img src="screen shots/a5.jpeg" width=300 hight=400>  <img src="screen shots/a6.jpeg" width=300 hight=400>
+
+
+<img src="screen shots/a7.jpeg" width=300 hight=400>  <img src="screen shots/a8.jpeg" width=300 hight=400>  <img src="screen shots/a9.jpeg" width=300 hight=400>
+
+
+<img src="screen shots/a10.jpeg" width=300 hight=400>  <img src="screen shots/a11.jpeg" width=300 hight=400>  <img src="screen shots/a12.jpeg" width=300 hight=400>
+
+
+<img src="screen shots/a13.jpeg" width=300 hight=400>  <img src="screen shots/a14.jpeg" width=300 hight=400>  <img src="screen shots/a15.jpeg" width=300 hight=400>
+
